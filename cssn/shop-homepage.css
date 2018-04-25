@@ -1,0 +1,140 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 10px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: black;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+/*.carousel-holder {
+    margin-bottom: 30px;
+}*/
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+    width: 320px;
+    height: 200px;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+    background-color: #F0F8FF;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+@font-face {
+   font-family: Corporate A;
+   src: url(Corporate_A/ufonts_com_corporate_a_regular_1_.tff);
+}
+h1#main-heading{
+    font-family:  Corporate A ;
+    font-size:  50px;
+ 
+    color: white;
+
+}
+
+#main-box{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#product-grid{
+    padding-top: 20px;
+}
+#description{
+    color: white;
+    text-align: justify;
+    text-indent: 70px;
+    padding-top: 30px;
+}
+
+div#return-div #return{
+    margin-right: 0px;
+    padding-right: 10px;
+    
+    float: right;
+    }
+
+
+div#top-bar{
+       border-bottom: 3px solid red;
+       padding-bottom: 0px;
+
+}
+
+  .glyphicon {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.glyphicon-star:before {
+  content: "\e006";
+  }
+.button{
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  margin-top: 10px;
+}
+ .btn{
+  margin-left: 220px;
+  margin-bottom: 30px;
+  position: absolute;
+  width: 100px;
+  border:none;
+  outline: none;
+ }
+ .btn:focus{
+  border: none;
+  outline: none;
+ }
+.form-control{
+  width: 150px;
+  margin-left: 180px;
+}

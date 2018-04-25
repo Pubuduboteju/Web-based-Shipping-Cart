@@ -1,0 +1,359 @@
+ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	position: relative;
+	z-index: 1;
+	
+
+}
+
+	ul li a{
+		text-decoration:none;
+		color: white;
+		display: block;
+
+	}
+	ul.user-menu li a{
+		text-decoration:none;
+		color: white;
+		display: block;
+	}
+
+	#menu ul li a{
+		text-decoration:none;
+		color: white;
+		display: block;
+
+	}
+
+ul li{
+	float: left;
+	width: 100px;
+	height: 40px;
+	background-color: black;
+	font-size: 13px;
+	line-height: 40px;  
+	text-align: center;
+	opacity: 0.8; 
+   
+
+}
+
+ul li a:hover{
+	color: orange;
+}
+
+#menu ul li a:hover{
+	color: yellow;
+}
+ul li ul li{
+	display: none;
+}
+ul li:hover ul li{
+	display: block;
+}
+
+/*#navv{
+	font-family: 'Oswald', sans-serif;
+	font-size: 5px;
+	transform: uppercase;
+	float: right;
+	margin-top: 30px;
+	background-color: black;
+	
+	  
+
+	
+}*/
+
+/*.span4{
+	float: left;
+}*/
+}
+/*	margin: 0px;
+	padding: 0px;
+
+}*/
+/*#topnav{
+	margin-left: 150px;
+	margin-right: 170px;
+	background-color: black;
+}*/
+}
+#Name{
+	float: right;
+
+}
+h1{
+	color: white;
+}
+/*.nav2{
+	padding-right: 100px;
+	margin: 0px;
+}*/
+
+#top-bar.col-md-2{
+	padding: 0px;
+	font-size: 10px;
+	color: white;
+	padding-left: 0px;
+}
+.col-md-10-{
+	margin: 0px;
+}
+
+.row{
+	padding:0px;
+	background-color: black;
+	margin: 0px;
+}
+.nav2{
+	padding: 0px;
+	margin: 0px;
+}
+.col-md-6{
+	float: right;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.user-menu{
+	float: right;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.search-form{
+	float: left;
+
+}
+@font-face {
+   font-family: Corporate A;
+   src: url(Corporate_A/ufonts_com_corporate_a_regular_1_.tff);
+   }
+#main-name{
+	margin-left: 0px;
+	font-family:Corporate A;
+}
+#benzlogo{
+	margin-right: 0px;
+
+}
+
+#part2 menu {
+	margin-right: 100px;
+	padding: 0px;
+}
+#wrapper{
+	margin-right: 0px;
+	padding-right: 30px; 
+	padding-left: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 0px;
+	border: 0px;
+	
+
+		}
+
+/*.navbar{
+	margin: 0px;
+	padding: 0px;
+}
+.main-menu{
+	margin:0px;
+	padding: 0px;
+}
+
+.home-page{
+	margin: 0px;
+	margin: 0px;
+}
+#menu{
+	margin: 0px;
+	margin: 0px;
+}*/
+
+div#logo{
+	width: 125px;
+	/*padding: 0px;*/
+}
+
+div#main-name-div{
+	width: 350px;
+	display: inline;
+	margin: 0px;
+	
+}
+
+div#user-menu-div{
+	width: 450px;
+	float: right;
+}
+
+form.search_form{
+	width: 200px;
+	float: right;
+	margin-right: 20px;
+}
+
+.input-block-level {
+	background-color: lightgray;
+	border: 2px solid lightgray;
+	border-radius: 10px;
+}
+
+div.home-page{
+	width: 300px;
+	color: white;
+	padding-top: 10px;
+}
+
+div#menu-div{
+	width: 700px;
+	float: right;
+
+}
+
+body#main-body{
+	background-color: black;
+	background-size: 100%;
+}
+
+div#main-menu-div{
+	margin-left: auto;
+	margin-right: auto;
+	border: 0px;
+	
+}
+
+section.navbar.main-menu{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	margin-left: 30px;
+
+}
+
+#top-bar{
+	border-bottom: 3px solid red;
+	
+}
+
+#home-id a{
+	text-decoration: none;
+	color: white;
+	
+}
+#home-id a:hover{
+	color: red;
+}
+
+
+
+#latter-bar{
+	background-color: white;
+	margin-top: 10px;
+}
+
+.details{
+	padding-top: 30px;
+
+}
+
+
+#latter-bar .li2 .a2{
+	color: black;
+	background-color: white;
+	font-style: times;
+	font-size: 14px;
+	
+	
+
+}
+#latter-bar .li2{
+	
+	width: 200px;
+	height: 30px;
+	
+	
+	line-height: 20px;  
+	text-align: left;
+	background-color: white;
+
+
+}
+
+#copy-right-div{
+
+	background-color: white;
+	text-align: center;
+
+
+}
+
+#find-us{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.social-img{
+	width: 20px;
+	height: 20px;
+}
+#find-us-div2{
+	position: relative;
+	margin-top: 40px;
+	padding :30px;
+}
+#find-us-div2 p{
+	padding-left: 10px;
+}
+#find-us-h4{
+	padding-top: 200px;
+	}
+.user-menu-img{
+	width: 30px;
+	height: 23px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 4px;
+}
+.user-menu-account-img{
+	width: 17px;
+	height: 15px;
+	margin-left: 3px;
+	margin-right: 5px;
+	margin-bottom: 6px;
+	
+}
+
+.menu-logo{
+	width: 20px;
+	height: 20px;
+}
+.menu-logo-benz{
+	width: 18px;
+	height: 20px;
+	margin-bottom: 3px;
+}
+
+.menu-logo-lam{
+	width: 24px;
+	height: 20px;
+}
+.menu-logo-fer{
+	width: 30px;
+	height: 20px;
+}
+.menu-logo-mini{
+	width: 24px;
+	height: 20px;
+}
+
+.user-menu-login-img{
+	width: 15px;
+	height: 15px;
+	margin-right: 8px;
+    margin-bottom: 4px;	
+}

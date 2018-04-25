@@ -1,0 +1,73 @@
+
+#loginImage{
+    height: 600px;
+}
+.loginFrame{
+    position: relative;
+    color: white;
+    width: 35%;
+    height: 70%;
+   
+    padding: 50px;
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    z-index: 1;
+    opacity: 1;
+    
+    background-color: rgba(222 234 123 0.5);
+    border:2px solid red;
+    /*background-image: url("../5fe3e287fb4219c5414e519521973fe4.gif");*/
+
+   /* padding: 10px;
+    top: 50px;
+    left: 900px;*/
+}
+
+
+
+
+
+.site_logo{
+    height: 20px;
+    width: 20px;
+}
+
+body{
+    
+    background-image: url("../lamborghini_aventador_roadster-wide.jpg");
+    background-color: black;
+    background-size: 100%;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 40% 40%;
+}
+
+#log1 #log2 #log3 #log4{
+    opacity: 1;
+    font-weight: 300px;
+}
+
+div#top-bar{
+       border-bottom: 3px solid red;
+       padding-bottom: 0px;
+       margin-right: 40px;
+       margin-left: 40px;
+       margin-top: 20px;
+    }
+
+    div#return-div #return{
+    margin-right: 0px;
+    padding-right: 10px;
+    
+    float: right;
+    }
+
+    h1#main-heading{
+    font-family:  Corporate A ;
+    font-size:  50px;
+ 
+    color: white;
+
+}
